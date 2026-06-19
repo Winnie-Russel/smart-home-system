@@ -127,4 +127,3 @@ build/Release/SmartHomeControlSystem.exe
 
 ---
 
-如用于课程答辩，可重点展示：类图关系、多态调用、菜单交互流程、以及文件读写前后数据一致性。
